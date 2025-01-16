@@ -22,5 +22,5 @@ spec:
           protocol: TCP
         env:
         - name: ECHO_TEXT
-          value: Labas Vakaras, mykolas-application !!!
+          value: Labas Vakaras, mykolas-application !!! Bandymas 2
 
